@@ -15,6 +15,7 @@ Postdoctoral Researchers
 ========================
 
 <div class="campl-listing-item clearfix">
+
 <div class="campl-column10">
 
 Person Name
@@ -23,15 +24,20 @@ Person Name
 Brief Bio
 
 </div>
+
 <div class="campl-column2">
+
 <img src="{{ site.baseurl }}/images/content/profile-01.jpg" title="Person Name" class="campl-scale-with-grid" />
+
 </div>
+
 </div>
 
 Graduate Students
 =================
 
 <div class="campl-listing-item clearfix">
+
 <div class="campl-column10">
 
 Haydn King
@@ -40,7 +46,11 @@ Haydn King
 Haydn started a PhD in the Ajioka Lab in 2014, working on part characterisation and system design in *Bacillus Subtilis*. He is particularly interested in developing regulatory structures which are tolerant of the large amounts of noise present in biological systems. Prior to starting his PhD, Haydn completed a degree in Engineering at the University of Cambridge specialising in Information and Computer Engineering.
 
 </div>
+
 <div class="campl-column2">
+
 <img src="{{ site.baseurl }}/images/content/haydn.jpg" title="Haydn King" class="campl-scale-with-grid" />
+
 </div>
+
 </div>
