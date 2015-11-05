@@ -57,11 +57,13 @@ including whole metabolic pathways between chassis.
 engineering tailor-made genomes and minimal cells for industrial application and 
 investigating fundamental biological functions encoded by essential genes.
 </p>
-</div></div>
+</div>
+</div>
 <div class="campl-column3">
 <div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/mario.jpg" title="Mario Juhas" class="campl-scale-with-grid" />
-</div></div>
+</div>
+</div>
 </div>
 
 <div class="campl-listing-item clearfix">
@@ -71,7 +73,8 @@ investigating fundamental biological functions encoded by essential genes.
 <p>I’m a postdoc in the lab working primarily on the Arsenic Biosensor Collaboration project. I’m a Synthetic Biologist with a background in Genetics and Nanomaterials. My interests mostly revolve around Synthetic Biology, biosensors, electron transfer pathways and chimeric proteins, but I’m always happy to collaborate on anything I find interesting. 
 </p><p>
 In my spare time I enjoy cooking – a hobby which I take almost as seriously as my work – and the usual: film, music, art and literature (my favourite book is “The Count of Monte Cristo”).</p>
-</div></div>
+</div>
+</div>
 <div class="campl-column3">
 <div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/orr.jpg" title="Orr Yarkoni" class="campl-scale-with-grid" />
@@ -148,6 +151,7 @@ response to parasite infection.</p>
 </div>
 </div>
 <div class="campl-column3">
+<div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/haydn.jpg" title="Haydn King" class="campl-scale-with-grid" />
 </div>
 </div>
