@@ -146,6 +146,20 @@ response to parasite infection.</p>
 <div class="campl-listing-item clearfix">
 <div class="campl-column9">
 <div class="campl-content-container">
+<h2>Nor Amirrah Ibrahim (Mira)</h2>
+<p>I’m a PhD student and I work in the field of synthetic biology. I previously studied Biochemistry at King’s College London. My work focuses on using a regulatory network model, particularly to discover and test novel pathways in <i>B. subtilis</i>. Using this network, we will eventually be able to visualise and predict the organism’s genomic behaviour <i>in silico</i> as well as <i>in vitro</i> with the addition and deletion of genetic circuits. The transcriptomic datasets from this work will not only be used to analyse novel interactions, but also enhance the network model, which can then develop further into multi-genome platform technology. The potential to picture transcriptomic data in genome-wide fashion and easily identify gene interactions, particularly those that have yet to be elucidated, dramatically open research avenues to better understanding of processes that sustain bacterial life.</p>
+</div>
+</div>
+<div class="campl-column3">
+<div class="campl-content-container">
+<img src="{{ site.baseurl }}/images/content/mira.jpg" title="Nor Amirrah Ibrahim (Mira)" class="campl-scale-with-grid" />
+</div>
+</div>
+</div>
+
+<div class="campl-listing-item clearfix">
+<div class="campl-column9">
+<div class="campl-content-container">
 <h2>Haydn King</h2>
 <p>Haydn started a PhD in the Ajioka Lab in 2014, working on part characterisation and system design in <i>Bacillus Subtilis</i>. He is particularly interested in developing regulatory structures which are tolerant of the large amounts of noise present in biological systems. Prior to starting his PhD, Haydn completed a degree in Engineering at the University of Cambridge specialising in Information and Computer Engineering.</p>
 </div>
