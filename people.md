@@ -9,12 +9,16 @@ There's a template below - just copy-paste and fill in the relevent details.
 Uploading an image directly isn't currently supported by github (Nov 2015), so you'll have to pull the repository, commit the extra images and push back using git.
 
 <div class="campl-listing-item clearfix">
-<div class="campl-column10">
+<div class="campl-column9">
+<div class="campl-content-container">
 <h2>PERSON NAME HERE</h2>
 <p>PERSON BIO HERE</p>
 </div>
-<div class="campl-column2">
+</div>
+<div class="campl-column3">
+<div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/IMAGE_NAME.jpg" title="PERSON NAME" class="campl-scale-with-grid" />
+</div>
 </div>
 </div>
 
@@ -31,6 +35,7 @@ Postdoctoral Researchers
 
 <div class="campl-listing-item clearfix">
 <div class="campl-column10">
+<div class="campl-content-container">
 <h2>Mario Juhas</h2>
 <p>I work in the field of synthetic biology of bacteria. Previously I worked at the University of Zurich
 and the University of Oxford in synthetic biology and functional genomics of bacteria. I received 
@@ -52,21 +57,25 @@ including whole metabolic pathways between chassis.
 engineering tailor-made genomes and minimal cells for industrial application and 
 investigating fundamental biological functions encoded by essential genes.
 </p>
-</div>
+</div></div>
 <div class="campl-column2">
+<div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/mario.jpg" title="Mario Juhas" class="campl-scale-with-grid" />
-</div>
+</div></div>
 </div>
 
 <div class="campl-listing-item clearfix">
 <div class="campl-column10">
+<div class="campl-content-container">
 <h2>Orr Yarkoni</h2>
 <p>I’m a postdoc in the lab working primarily on the Arsenic Biosensor Collaboration project. I’m a Synthetic Biologist with a background in Genetics and Nanomaterials. My interests mostly revolve around Synthetic Biology, biosensors, electron transfer pathways and chimeric proteins, but I’m always happy to collaborate on anything I find interesting. 
 </p><p>
 In my spare time I enjoy cooking – a hobby which I take almost as seriously as my work – and the usual: film, music, art and literature (my favourite book is “The Count of Monte Cristo”).</p>
-</div>
+</div></div>
 <div class="campl-column2">
+<div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/orr.jpg" title="Orr Yarkoni" class="campl-scale-with-grid" />
+</div>
 </div>
 </div>
 
@@ -75,11 +84,15 @@ Research Assistants
 
 <div class="campl-listing-item clearfix">
 <div class="campl-column10">
+<div class="campl-content-container">
 <h2>Peter Davenport</h2>
 <p>Peter Davenport read Natural Sciences (BA and MSci) at Cambridge University, specialising in Biochemistry and Molecular Biology. Peter's PhD research explored interactions between the intercellular signalling and metabolism of the bacterial pathogen <i>Pseudomonas aeruginosa</i> and was conducted in the Welch and Griffin Groups of the Department of Biochemistry, University of Cambridge. His current research comprises development of in vitro and in vivo genetic biosensors with applications spanning heavy metal detection to the interrogation of behavioural neuroanatomy. These current projects provide interesting testbeds for developing and exploring the limits of simple biological computing elements.</p>
 </div>
+</div>
 <div class="campl-column2">
+<div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/pete.jpg" title="Peter Davenport" class="campl-scale-with-grid" />
+</div>
 </div>
 </div>
 
@@ -89,6 +102,7 @@ Graduate Students
 
 <div class="campl-listing-item clearfix">
 <div class="campl-column10">
+<div class="campl-content-container">
 <h2>Bo Shiun</h2>
 <p>I grew up in Taipei, Taiwan, immigrated to Vancouver, British Columbia, Canada and went to the United States for college. I am beyond blessed to be pursuing a PhD in Pathology at Cambridge on a Gates Cambridge Scholarship, and I am sincerely grateful for and deeply indebted to the Bill & Melinda Gates Foundation for making my study possible.
 </p><p>
@@ -96,13 +110,17 @@ As an undergraduate at the University of Chicago, I worked in the Toxoplasmosis 
 </p><p>
 At Cambridge, I work with Dr. James Ajioka to investigate mechanisms of <i>T. gondii</i> invasion and further our understanding of parasite-host interactions that could potentially be exploited for future therapeutics.</p>
 </div>
+</div>
 <div class="campl-column2">
+<div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/bo.jpg" title="Bo Shiun" class="campl-scale-with-grid" />
+</div>
 </div>
 </div>
 
 <div class="campl-listing-item clearfix">
 <div class="campl-column10">
+<div class="campl-content-container">
 <h2>Konstanze Schott</h2>
 <p>I have studied Pharmacy at the University of Kiel in Germany. As part of my course I completed a 
 research training in the Cancer Biomarkers and Prevention Group in the Department of Cancer 
@@ -114,17 +132,23 @@ project gives a better understanding on how the apicomplexan parasite <i>Toxopla
 modulate the host cell environment and on what role exosomes might play in the host immune 
 response to parasite infection.</p>
 </div>
+</div>
 <div class="campl-column2">
+<div class="campl-content-container">
 <img src="{{ site.baseurl }}/images/content/konstanze.jpg" title="Konstanze Schott" class="campl-scale-with-grid" />
+</div>
 </div>
 </div>
 
 <div class="campl-listing-item clearfix">
 <div class="campl-column10">
+<div class="campl-content-container">
 <h2>Haydn King</h2>
 <p>Haydn started a PhD in the Ajioka Lab in 2014, working on part characterisation and system design in <i>Bacillus Subtilis</i>. He is particularly interested in developing regulatory structures which are tolerant of the large amounts of noise present in biological systems. Prior to starting his PhD, Haydn completed a degree in Engineering at the University of Cambridge specialising in Information and Computer Engineering.</p>
 </div>
+</div>
 <div class="campl-column2">
 <img src="{{ site.baseurl }}/images/content/haydn.jpg" title="Haydn King" class="campl-scale-with-grid" />
+</div>
 </div>
 </div>
