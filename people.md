@@ -24,8 +24,8 @@ Uploading an image directly isn't currently supported by github (Nov 2015), so y
 
 -->
 
-Dr Jim Ajioka
--------------
+Group Leader
+============
 
 <div class="campl-listing-item clearfix">
 <div class="campl-column9">
