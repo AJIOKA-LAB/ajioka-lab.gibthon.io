@@ -83,6 +83,37 @@ investigating fundamental biological functions encoded by essential genes.
 <div class="campl-listing-item clearfix">
 <div class="campl-column9">
 <div class="campl-content-container">
+<h2>David L Willey</h2>
+<p>I graduated with a BSc (Hons) in Biochemistry from Birmingham University in 
+1981, then gained a PhD in plant molecular biology from Cambridge University 
+under the supervision of Prof J C Gray . I was then awarded the Royal Society 
+Rosenheim research fellowship from 1984-89 investigating the biochemistry and 
+molecular biology of the triose phosphate translocator protein of the chloroplast 
+inner envelope membrane. I was then employed as a Senior Plant Scientist at 
+Agricultural Genetics Company until 1991 working on the identification of plant 
+genes conferring insect resistance, followed by a Senior Research Associate in 
+the Institute of Biotechnology, University of Cambridge on the characterisation 
+of microbial genes involved in morphine degradation, before taking up a 
+Lectureship in the Department of Biochemistry, Cardiff University from 1992-
+1997. From 1998-2015 I was employed as a Project Leader, Scientific Manager 
+then Staff Scientist at the Wellcome Trust Sanger Institute and most recently 
+have taken up a Research Associate position in the Department of Pathology, 
+University of Cambridge under the direction of Dr J Ajioka working on methods 
+of plant genome manipulation. My research expertise is in the areas of plant 
+molecular biology, DNA manipulation, DNA and RNA library preparation 
+methods.</p>
+</div>
+</div>
+<div class="campl-column3">
+<div class="campl-content-container">
+<img src="{{ site.baseurl }}/images/content/dave.jpg" title="David L Willey" class="campl-scale-with-grid" />
+</div>
+</div>
+</div>
+
+<div class="campl-listing-item clearfix">
+<div class="campl-column9">
+<div class="campl-content-container">
 <h2>Orr Yarkoni</h2>
 <p>I’m a postdoc in the lab working primarily on the Arsenic Biosensor Collaboration project. I’m a Synthetic Biologist with a background in Genetics and Nanomaterials. My interests mostly revolve around Synthetic Biology, biosensors, electron transfer pathways and chimeric proteins, but I’m always happy to collaborate on anything I find interesting. 
 </p><p>
