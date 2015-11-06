@@ -5,14 +5,7 @@ title: Research Themes
 permalink: /themes/
 ---
 
-Synthetic Biology
-=================
+Coming Soon!
+============
 
-Some blurb, possibly an image
-
-Should talk about arsenic biosensor
-
-Toxoplasma Gondii
-=================
-
-More content here
+(6/11/2015)
