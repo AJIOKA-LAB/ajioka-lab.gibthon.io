@@ -27,8 +27,22 @@ Uploading an image directly isn't currently supported by github (Nov 2015), so y
 Dr Jim Ajioka
 -------------
 
-Bio and image
-
+<div class="campl-listing-item clearfix">
+<div class="campl-column9">
+<div class="campl-content-container">
+<h2>Dr James Ajioka</h2>
+<p>My teaching and research is focused on the science and engineering of genetic systems.
+Rapid advances in molecular biology methods including DNA sequencing, synthesis and 
+assembly combined with increasingly sophisticated computational tools allows us to both 
+interrogate natural genetic systems and construct novel ones.</p>
+</div>
+</div>
+<div class="campl-column3">
+<div class="campl-content-container">
+<img src="{{ site.baseurl }}/images/content/jim.jpg" title="Jim Ajioka" class="campl-scale-with-grid" />
+</div>
+</div>
+</div>
 
 Postdoctoral Researchers
 ========================
@@ -161,7 +175,13 @@ response to parasite infection.</p>
 <div class="campl-column9">
 <div class="campl-content-container">
 <h2>Haydn King</h2>
-<p>Haydn started a PhD in the Ajioka Lab in 2014, working on part characterisation and system design in <i>Bacillus Subtilis</i>. He is particularly interested in developing regulatory structures which are tolerant of the large amounts of noise present in biological systems. Prior to starting his PhD, Haydn completed a degree in Engineering at the University of Cambridge specialising in Information and Computer Engineering.</p>
+<p>I started a PhD in the Ajioka Lab in 2014, working on part characterisation and system design in 
+<i>Bacillus subtilis</i>. I'm particularly interested in developing regulatory structures which are 
+tolerant of the large amounts of noise present in biological systems, and how this compares to more 
+classical engineering systems. Prior to starting my PhD, I completed a degree in Engineering at the 
+University of Cambridge specialising in Information and Computer Engineering. This has given me a 
+different background to other lab members and I particularly enjoy the interdisciplinary nature of 
+my work.</p>
 </div>
 </div>
 <div class="campl-column3">
