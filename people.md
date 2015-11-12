@@ -153,11 +153,9 @@ Research Assistants
 My PhD research explores host cell metabolic and microRNA changes following infection by the pathogenic parasite Toxoplasma gondii, using a combination of bioinformatic, next-generation sequencing and molecular biology tools.
 </p>
 <h5>LINKS:</h5>
-<p>
-<a href="http://synbioleap.org/community/fellows/">http://synbioleap.org/community/fellows/</a>
-<a href="https://futureofbiology.wordpress.com/participants/lalitha-sundaram/">https://futureofbiology.wordpress.com/participants/lalitha-sundaram/</a>
-<a href="http://nextgenstemm.org.uk/lalitha-sundaram/">http://nextgenstemm.org.uk/lalitha-sundaram/</a>
-</p>
+<p><a href="http://synbioleap.org/community/fellows/">http://synbioleap.org/community/fellows/</a></p>
+<p><a href="https://futureofbiology.wordpress.com/participants/lalitha-sundaram/">https://futureofbiology.wordpress.com/participants/lalitha-sundaram/</a></p>
+<p><a href="http://nextgenstemm.org.uk/lalitha-sundaram/">http://nextgenstemm.org.uk/lalitha-sundaram/</a></p>
 </div>
 </div>
 <div class="campl-column3">
