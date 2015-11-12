@@ -144,6 +144,28 @@ Research Assistants
 </div>
 </div>
 
+<div class="campl-listing-item clearfix">
+<div class="campl-column9">
+<div class="campl-content-container">
+<h2>Lalitha Sundaram</h2>
+<p>My role within the Arsenic Biosensor Collaboration is in developing strategy to take the technology from bench to field with a particular emphasis on the ethical and socio-technical considerations that this involves. I am exploring these issues of Responsible Research and Innovation more broadly as a Fellow of the Synthetic Biology Leadership Excellence Accelerator Program, where my work focusses on international regulatory frameworks for genetically-modified organisms.
+</p><p>
+My PhD research explores host cell metabolic and microRNA changes following infection by the pathogenic parasite Toxoplasma gondii, using a combination of bioinformatic, next-generation sequencing and molecular biology tools.
+</p>
+<h5>LINKS:</h5>
+<p>
+<a href="http://synbioleap.org/community/fellows/">http://synbioleap.org/community/fellows/</a>
+<a href="https://futureofbiology.wordpress.com/participants/lalitha-sundaram/">https://futureofbiology.wordpress.com/participants/lalitha-sundaram/</a>
+<a href="http://nextgenstemm.org.uk/lalitha-sundaram/">http://nextgenstemm.org.uk/lalitha-sundaram/</a>
+</p>
+</div>
+</div>
+<div class="campl-column3">
+<div class="campl-content-container">
+<img src="{{ site.baseurl }}/images/content/lalitha.jpg" title="Lalitha Sundaram" class="campl-scale-with-grid" />
+</div>
+</div>
+</div>
 
 Graduate Students
 =================
