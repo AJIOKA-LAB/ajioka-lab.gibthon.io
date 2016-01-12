@@ -8,6 +8,13 @@ permalink: /themes/
 Synthetic Biology
 =================
 
+Genome Maipulation
+==================
+
+The lack of suitable chromosomal integration loci is among the main hurdles of the _E. coli_ and _B. subtilis_ engineering efforts. We developed a λ red recombinase-mediated method for integration of genetic circuits into the _E. coli_ chromosome. Furthermore, we identified and validated a number of reliable integration target loci within _E. coli_ flagellar regions. 
+
+Although the vast majority of good DNA assembly and editing tools are in _E. coli_, other organisms, such as _B. subtilis_ or _Marchantia polymorpha_ are better hosts for certain applications. This necessitates development of systems for reliable interchassis transfer of high molecular weight DNA. We constructed integrative bacterial artificial chromosomes (iBACs) for efficient integration into _B. subtilis_ chromosome. We are also engineering autolysing cells for inducible interchassis transfer of big DNA molecules. As part of the OpenPlant BBSRC/EPSRC initiative, we are using _M. polymorpha_ as a model plant system for the introduction of large synthetic DNA constructs into both the plastid and nuclear genomes. This will require the design and construction of open-source BACs and yeast artificial chromosome (YAC) vectors as shuttle systems for large DNA constructs and the design of open-source plastid genome vectors for chloroplast transformation.
+
 
 _Toxoplasma gondii_: parasitic subversion of host function
 ========================================================
